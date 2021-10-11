@@ -15,11 +15,12 @@
 ## Skills:
 
 ### Frameworks:
-![NodeJs](https://img.shields.io/badge/NodeJs-purple?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010) 
-![ReactJs](https://img.shields.io/badge/ReactJs-purple?style=for-the-badge&logo=react&logoColor=white&labelColor=101010) 
-![ExpressJs](https://img.shields.io/badge/ExpressJs-green?style=for-the-badge&logo=express&logoColor=white&labelColor=101010) 
-![Qt](https://img.shields.io/badge/Qt-green?style=for-the-badge&logo=qt&logoColor=white&labelColor=101010) 
-![CSS](https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
+![NodeJs](https://img.shields.io/badge/NodeJs-#339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010)
+![Nodemon](https://img.shields.io/badge/NodeJs-#76D04B?style=for-the-badge&logo=nodemon&logoColor=white&labelColor=101010)
+![ReactJs](https://img.shields.io/badge/ReactJs-#61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010) 
+![ExpressJs](https://img.shields.io/badge/ExpressJs-#000000?style=for-the-badge&logo=express&logoColor=white&labelColor=101010) 
+![Qt](https://img.shields.io/badge/Qt-#41CD52?style=for-the-badge&logo=qt&logoColor=white&labelColor=101010) 
+![Material-UI](https://img.shields.io/badge/Material-UI-#0081CB?style=for-the-badge&logo=material-uI3&logoColor=white&labelColor=101010)
 
 
 ### Languages:
