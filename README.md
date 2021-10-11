@@ -1,4 +1,5 @@
-<h1 align="center">What's up!! 🏻🐱‍👤, I'm Sito</h1>
+
+<h1 align="center">What's up! 🐱‍👤 I'm Sito</h1>
 <h3 align="center">Let's start a journey together!</h3>
 
 ## Skills:
