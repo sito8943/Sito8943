@@ -13,9 +13,11 @@
 *************
 
 ## Skills:
-![ReactJs](https://img.shields.io/badge/ReactJs-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010) 
-![ExpressJs](https://img.shields.io/badge/ExpressJs-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010) 
-![TauriStudio](https://img.shields.io/badge/TauriStudio-blue?style=for-the-badge&logo=react&logoColor=white&labelColor=101010) 
+
+### Frameworks:
+![ReactJs](https://img.shields.io/badge/ReactJs-0095D5?style=for-the-badge&logo=reactjs&logoColor=white&labelColor=101010) 
+![ExpressJs](https://img.shields.io/badge/ExpressJs-yellow?style=for-the-badge&logo=expressjs&logoColor=white&labelColor=101010) 
+![TauriStudio](https://img.shields.io/badge/TauriStudio-blue?style=for-the-badge&logo=tauristudio&logoColor=white&labelColor=101010) 
 ![HTML](https://img.shields.io/badge/Html-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010) 
 ![CSS](https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
 
