@@ -2,6 +2,16 @@
 <h1 align="center">What's up! 🐱‍👤 I'm Sito</h1>
 <h3 align="center">Let's start a journey together!</h3>
 
+[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=SitoNumbis&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+*************
+
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SitoNumbis&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+*************
+
 ## Skills:
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010) 
@@ -11,14 +21,6 @@
 
 *************
 <br>
-
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=SitoNumbis&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-*************
-
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SitoNumbis&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ************* 
  
