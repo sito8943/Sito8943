@@ -19,7 +19,6 @@
 ![HTML](https://img.shields.io/badge/Html-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010) 
 ![CSS](https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
 
-*************
 <br>
  
 ## Are you looking for extra hands? Find me here:
