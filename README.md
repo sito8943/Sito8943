@@ -22,9 +22,8 @@
 
 ************* 
  
-## Find me at:
-[![EMAIL](https://img.shields.io/badge/Email-sito8943@gmail.com-9cf)](mailto:sito8943@gmail.com)<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos_Andres-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/carlos-andres-89556120b/)<br>
-[![Dev.to](https://img.shields.io/badge/Dev.to-@sitonimbus-0077B5?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://dev.to/sitonimbus)<br>
-[![Facebook](https://img.shields.io/badge/Facebook-carlosandres.moragonzalez-0077B5?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/carlosandres.moragonzalez.7/)<br>
-[![Instagram](https://img.shields.io/badge/Instagram-carlosandresmoragonzalez-0077B5?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/carlosandresmoragonzalez/)<br>
+## Are you looking for extra hands? Find me here:
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-andres-89556120b/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-black?style=flat&logo=dev.to&logoColor=white)](https://dev.to/sitonimbus)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/carlosandres.moragonzalez.7/)
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/carlosandresmoragonzalez/)
