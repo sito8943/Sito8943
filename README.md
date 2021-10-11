@@ -20,8 +20,8 @@
 ![ReactJs](https://img.shields.io/badge/ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010) 
 ![ExpressJs](https://img.shields.io/badge/ExpressJs-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=101010) 
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white&labelColor=101010) 
-![SQLite](https://img.shields.io/badge/Qt-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010) 
-![MySql](https://img.shields.io/badge/Qt-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010) 
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=101010) 
+![MySql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010) 
 
 ### Languages:
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010) 
