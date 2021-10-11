@@ -23,5 +23,5 @@
  
 ## Find me at:
 [![EMAIL](https://img.shields.io/badge/Email-sito8943@gmail.com-9cf)](mailto:sito8943@gmail.com)<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos-Andrés-Mora-González-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/carlos-andres-89556120b/)<br>
-[![twitter](https://img.shields.io/badge/Dev.to-@sitonimbus-0077B5?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://dev.to/sitonimbus)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SitoNimbus-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/carlos-andres-89556120b/)<br>
+[![twitter](https://img.shields.io/badge/Dev.to-@sitonimbus-0077B5?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://dev.to/sitonimbus)
