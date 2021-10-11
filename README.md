@@ -23,7 +23,7 @@
  
 ## Find me at:
 [![EMAIL](https://img.shields.io/badge/Email-sito8943@gmail.com-9cf)](mailto:sito8943@gmail.com)<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SitoNimbus-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/carlos-andres-89556120b/)<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos Andres-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/carlos-andres-89556120b/)<br>
 [![Dev.to](https://img.shields.io/badge/Dev.to-@sitonimbus-0077B5?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://dev.to/sitonimbus)<br>
 [![Facebook](https://img.shields.io/badge/Facebook-carlosandres.moragonzalez-0077B5?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/carlosandres.moragonzalez.7/)<br>
 [![Instagram](https://img.shields.io/badge/Instagram-carlosandresmoragonzalez-0077B5?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/carlosandresmoragonzalez/)<br>
