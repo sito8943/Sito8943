@@ -21,8 +21,6 @@
 
 *************
 <br>
-
-************* 
  
 ## Are you looking for extra hands? Find me here:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-andres-89556120b/)
