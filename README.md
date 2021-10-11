@@ -13,6 +13,14 @@
 *************
 
 ## Skills:
+![ReactJs](https://img.shields.io/badge/ReactJs-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010) 
+![ExpressJs](https://img.shields.io/badge/ExpressJs-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010) 
+![TauriStudio](https://img.shields.io/badge/TauriStudio-blue?style=for-the-badge&logo=react&logoColor=white&labelColor=101010) 
+![HTML](https://img.shields.io/badge/Html-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010) 
+![CSS](https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
+
+
+### Languages:
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010) 
 ![ReactJS](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white&labelColor=101010) 
@@ -21,7 +29,7 @@
 
 <br>
  
-## Are you looking for extra hands? Find me here:
+### Are you looking for extra hands? Find me here:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-andres-89556120b/)
 [![Dev.to](https://img.shields.io/badge/Dev.to-black?style=flat&logo=dev.to&logoColor=white)](https://dev.to/sitonimbus)
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/carlosandres.moragonzalez.7/)
