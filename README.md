@@ -2,16 +2,6 @@
 <h1 align="center">What's up! 🐱‍👤 I'm Sito</h1>
 <h3 align="center">Let's start a journey together!</h3>
 
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=SitoNumbis&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-*************
-
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SitoNumbis&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<codersrank-summary username="SitoNumbis"></codersrank-summary>
-
 *************
 
 <br>
