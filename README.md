@@ -8,20 +8,20 @@
 
 
 <div style="display: flex; justify-content: center;">
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sito8943&theme=aura_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sito8943&theme=aura_dark) 
 </div>
 
 <br>
 <div style="display: flex; justify-content: center;" >
- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sito8943&theme=aura_dark) 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sito8943&theme=aura_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sito8943&theme=aura_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sito8943&theme=aura_dark) 
 </div>
 
 <br>
 
 <div style="display: flex; justify-content: center;">
- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sito8943&theme=aura_dark) 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sito8943&theme=aura_dark&utcOffset=8) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sito8943&theme=aura_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sito8943&theme=aura_dark&utcOffset=8) 
 </div>
 
 <br>
