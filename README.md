@@ -6,16 +6,27 @@
 
 *************
 
-<div align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sito8943&theme=github" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sito8943&theme=github" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sito8943&theme=github" />
-  </a>
+
+<div style="text-align:center">
+
+<img src="https://raw.githubusercontent.com/sito8943/github-profile-summary-cards/master/profile-summary-card-output/onedark/0-profile-details.svg" alt="Texto alternativo">
+
+</div>
+<br>
+<div style="display: flex; justify-content: center;" >
+
+<img src="https://raw.githubusercontent.com/sito8943/github-profile-summary-cards/master/profile-summary-card-output/onedark/1-repos-per-language.svg" alt="Texto alternativo">
+
+<img src="https://raw.githubusercontent.com/sito8943/github-profile-summary-cards/master/profile-summary-card-output/onedark/2-most-commit-language.svg" alt="Texto alternativo">
+
+</div>
+<br>
+<div style="display: flex; justify-content: center;">
+
+<img src="https://raw.githubusercontent.com/sito8943/github-profile-summary-cards/master/profile-summary-card-output/onedark/3-stats.svg" alt="Texto alternativo">
+
+<img src="https://raw.githubusercontent.com/sito8943/github-profile-summary-cards/master/profile-summary-card-output/onedark/4-productive-time.svg" alt="Texto alternativo">
+
 </div>
 
 <br>
