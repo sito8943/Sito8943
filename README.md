@@ -26,9 +26,9 @@
 
 <div style="display: flex; justify-content: center;">
  
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sito8943&theme=aura_dark)" alt="summary-cards-stats" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sito8943&theme=aura_dark" alt="summary-cards-stats" />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sito8943&theme=aura_dark&utcOffset=8)" alt="summary-cards-productive-time" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sito8943&theme=aura_dark&utcOffset=8" alt="summary-cards-productive-time" />
 
 </div>
 
