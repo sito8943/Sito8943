@@ -2,6 +2,8 @@
 <h1 align="center">What's up! 🐱‍👤 I'm Sito</h1>
 <h3 align="center">Let's start a journey together!</h3>
 
+👉 [Working on](https://github.com/issues?q=is%3Aissue+assignee%3A@me)
+
 [![committers.top badge](https://user-badge.committers.top/cuba/sito8943.svg)](https://user-badge.committers.top/cuba/sito8943)
 
 *************
