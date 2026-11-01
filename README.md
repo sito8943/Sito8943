@@ -24,7 +24,7 @@
 const sito = {
   focus: ["Frontend", "Web Architecture", "UI/UX"],
   languages: ["TypeScript", "JavaScript", "Java", "Python"],
-  tools: ["React", "Next.js", "Angular", "React Native"],
+  tools: ["React", "Next.js", "Tailwindcss", "React Native"],
   learning: ["Rust", "Tauri", "System Design"],
   motto: "Keep building, keep learning."
 };
